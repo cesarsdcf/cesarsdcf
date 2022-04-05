@@ -2,12 +2,12 @@
 <div align="center"> 
   <br>
   <div>
-  <img src="https://readme-typing-svg.herokuapp.com?color=8C3037&center=true&vCenter=true&multiline=true&width=500&height=65&lines=Hello+Friend!;My+name+is+Cesar%2C+and+I+do+Computer+Science">
+  <img src="https://readme-typing-svg.herokuapp.com?color=ffffff&center=true&vCenter=true&multiline=true&width=500&height=65&lines=Hello+Friend!;My+name+is+Cesar%2C+and+I+do+Computer+Science">
   </div>
 <br>
   <div>
     <a href="https://github.com/cesarsdcf">
-    <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=cesarsdcf&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+    <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=cesarsdcf&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
    <!-- <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarsdcf&layout=compact&langs_count=7&theme=onedark"/>  -->
   </div>
 
