@@ -2,7 +2,7 @@
 <div align="center"> 
   <br>
   <div>
-  <img src="https://readme-typing-svg.herokuapp.com?color=333333&center=true&vCenter=true&multiline=true&width=500&height=65&lines=Hello+Friend!;My+name+is+Cesar%2C+and+I+do+Computer+Science">
+  <img src="https://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=true&width=500&height=65&lines=Hello+Friend!;My+name+is+Cesar%2C+and+I+do+Computer+Science">
   </div>
 <br>
   <div>
